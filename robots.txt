@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-f5w9dl.1casino.co.nz/sitemap.xml
